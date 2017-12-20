@@ -1,0 +1,25 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliohurtado/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Julio Hurtado <juliohurtado.backend@gmail.com> (https://juliohurtado.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliohurtado/platzom/issues"
+  }
+}
